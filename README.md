@@ -27,4 +27,4 @@ El repositori està organitzat en dues branques per veure el procés de desenvol
 
 - **Llenguatge:** Kotlin
 - **UI Framework:** Jetpack Compose (Material 3, `@Composable`, Gradients, Custom Shapes)
-- **IDE & Eines:** Android Studio, Git i GitHub
+- **Eina:** Android Studio
